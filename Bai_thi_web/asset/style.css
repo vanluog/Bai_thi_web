@@ -1,0 +1,16 @@
+﻿body {
+    font-family: 'Arial', sans-serif;
+}
+
+.header {
+    text-align: center;
+    padding: 20px;
+    background-color: #007BFF;
+    color: #fff;
+}
+
+#nut-sinh-vien,
+#nut-phong,
+#nut-trang-chu {
+    margin: 10px;
+}
